@@ -1,0 +1,7 @@
+{
+  "parent": "abdibs_mod:custom/pesce_spada",
+  "textures": {
+    "0": "abdibs_mod:block/wood",
+    "particle": "abdibs_mod:item/pesce_sapda"
+  }
+}
